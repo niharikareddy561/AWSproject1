@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSproject", "AWSproject\AWSproject.csproj", "{A34D88B4-B229-414F-A705-6E62E9E1769C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWStest", "AWStest\AWStest.csproj", "{9481989F-3098-4C3A-9174-CFCC15650883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34D88B4-B229-414F-A705-6E62E9E1769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34D88B4-B229-414F-A705-6E62E9E1769C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34D88B4-B229-414F-A705-6E62E9E1769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34D88B4-B229-414F-A705-6E62E9E1769C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9481989F-3098-4C3A-9174-CFCC15650883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9481989F-3098-4C3A-9174-CFCC15650883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9481989F-3098-4C3A-9174-CFCC15650883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9481989F-3098-4C3A-9174-CFCC15650883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9242C6-6052-4C96-A122-B31A1442BE8D}
+	EndGlobalSection
+EndGlobal
